@@ -1,0 +1,16 @@
+{
+  "name": "Google-identity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliasdoerig/Google-identity.git"
+  },
+  "author": "Elias Dörig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliasdoerig/Google-identity/issues"
+  },
+  "homepage": "https://github.com/eliasdoerig/Google-identity#readme"
+}
