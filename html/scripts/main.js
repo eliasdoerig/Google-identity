@@ -2,10 +2,6 @@
 /*Define Users------------------------------------------------------------------------*/
 var user = [];
 $(document).ready(() => {
-    $.getJSON('json/elias.json', function(json){
-        let jsonObj = json;
-       user.push(jsonObj);
-    });
     $.getJSON('json/data.json', function(json){
         let jsonObj = json;
        user.push(jsonObj);
