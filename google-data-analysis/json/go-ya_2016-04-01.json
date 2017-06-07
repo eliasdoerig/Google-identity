@@ -1,0 +1,865 @@
+{
+    "event": [
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466754269278267"
+                    }
+                ],
+                "query_text": "plexiglass"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466753758435270"
+                    }
+                ],
+                "query_text": "mm to inches"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466750034608959"
+                    }
+                ],
+                "query_text": "mm to inches"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466672517717137"
+                    }
+                ],
+                "query_text": "translate"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466668667668911"
+                    }
+                ],
+                "query_text": "translate"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466665407868305"
+                    }
+                ],
+                "query_text": "zivi stellen ausland"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466665208277782"
+                    }
+                ],
+                "query_text": "ausland zivi"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466663674027327"
+                    }
+                ],
+                "query_text": "servizio civile all'estero svizzera"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466663385991842"
+                    }
+                ],
+                "query_text": "servizio civile svizzera"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466663373074819"
+                    }
+                ],
+                "query_text": "servizio civile"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466663370656455"
+                    }
+                ],
+                "query_text": "sevizio civile"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466598893799736"
+                    }
+                ],
+                "query_text": "7805 datasheet"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466598880099846"
+                    }
+                ],
+                "query_text": "7005"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466598748929350"
+                    }
+                ],
+                "query_text": "lt1763"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466598319436666"
+                    }
+                ],
+                "query_text": "lm317"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466597678478732"
+                    }
+                ],
+                "query_text": "78l05a"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466597014142343"
+                    },
+                    {
+                        "timestamp_usec": "1466597016151456"
+                    }
+                ],
+                "query_text": "PG-SOT-223"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466596312618783"
+                    }
+                ],
+                "query_text": "da inglese a italiano"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466594959036867"
+                    },
+                    {
+                        "timestamp_usec": "1466594960699670"
+                    }
+                ],
+                "query_text": "L2012C"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466594816986240"
+                    },
+                    {
+                        "timestamp_usec": "1466594819049904"
+                    }
+                ],
+                "query_text": "MF-SMDF050"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466594714862605"
+                    }
+                ],
+                "query_text": "19559 fuse 4a"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466594702311187"
+                    }
+                ],
+                "query_text": "19559 fuse"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466594694335769"
+                    },
+                    {
+                        "timestamp_usec": "1466594696350321"
+                    }
+                ],
+                "query_text": "19559"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466587312344604"
+                    }
+                ],
+                "query_text": "do-214ac"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466587301418595"
+                    }
+                ],
+                "query_text": "do-214"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466587235209475"
+                    }
+                ],
+                "query_text": "SOD123"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466587189147776"
+                    },
+                    {
+                        "timestamp_usec": "1466587190966069"
+                    }
+                ],
+                "query_text": "DO41-7.6"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466587048601213"
+                    }
+                ],
+                "query_text": "sk34sma"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466586750814135"
+                    }
+                ],
+                "query_text": "shotcky"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466586519041033"
+                    }
+                ],
+                "query_text": "irf540 smd"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466586153544069"
+                    },
+                    {
+                        "timestamp_usec": "1466586155258467"
+                    }
+                ],
+                "query_text": "6tq045s"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466585549719518"
+                    },
+                    {
+                        "timestamp_usec": "1466585551895176"
+                    }
+                ],
+                "query_text": "153CLV-0505"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466583588114303"
+                    }
+                ],
+                "query_text": "mm to inches"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466582783371853"
+                    },
+                    {
+                        "timestamp_usec": "1466582785179753"
+                    },
+                    {
+                        "timestamp_usec": "1466582790032267"
+                    }
+                ],
+                "query_text": "to-263-7"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466582767315971"
+                    }
+                ],
+                "query_text": "263-7"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466579481989153"
+                    },
+                    {
+                        "timestamp_usec": "1466579496861788"
+                    }
+                ],
+                "query_text": "irf540 smd"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466579470285822"
+                    },
+                    {
+                        "timestamp_usec": "1466579472334266"
+                    }
+                ],
+                "query_text": "irf540"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466579383062547"
+                    }
+                ],
+                "query_text": "sot23"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466579213706550"
+                    }
+                ],
+                "query_text": "lm2677 eagle"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466579090313355"
+                    }
+                ],
+                "query_text": "texas instruments"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466577993976228"
+                    }
+                ],
+                "query_text": "lm2677"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466577886636395"
+                    },
+                    {
+                        "timestamp_usec": "1466577888493623"
+                    }
+                ],
+                "query_text": "to263-7"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466577407273966"
+                    },
+                    {
+                        "timestamp_usec": "1466577409550473"
+                    }
+                ],
+                "query_text": "sot23-5"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466576060815485"
+                    },
+                    {
+                        "timestamp_usec": "1466576063221762"
+                    }
+                ],
+                "query_text": "sfh482"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466517588333819"
+                    }
+                ],
+                "query_text": "sot23"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466517414902747"
+                    },
+                    {
+                        "timestamp_usec": "1466517416889779"
+                    }
+                ],
+                "query_text": "r1206"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466511377362469"
+                    }
+                ],
+                "query_text": "vietato avvertire della presenza di blocchi e radar"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466509480902523"
+                    }
+                ],
+                "query_text": "sydney english school"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466424956983482"
+                    },
+                    {
+                        "timestamp_usec": "1466424958606270"
+                    }
+                ],
+                "query_text": "to220"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466405935743904"
+                    }
+                ],
+                "query_text": "switching mode"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466405929085378"
+                    }
+                ],
+                "query_text": "switching mode power supply"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1466069862011545"
+                    }
+                ],
+                "query_text": "shankra"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465894168359814"
+                    }
+                ],
+                "query_text": "euro2016"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465803705907018"
+                    }
+                ],
+                "query_text": "poesie famose"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465803703800850"
+                    }
+                ],
+                "query_text": "poesiae famose"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465803671433416"
+                    }
+                ],
+                "query_text": "poesia italiana elenco"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465803661616770"
+                    }
+                ],
+                "query_text": "poesia italiana lista"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465803652473146"
+                    }
+                ],
+                "query_text": "poesia italiana"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465803646267100"
+                    }
+                ],
+                "query_text": "poesia italiana stefano benni"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465802021381758"
+                    }
+                ],
+                "query_text": "leopardi poesie"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465801961888754"
+                    }
+                ],
+                "query_text": "poesia italiana stefano benni"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465801783414730"
+                    }
+                ],
+                "query_text": "poesia italiana"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465801598334980"
+                    }
+                ],
+                "query_text": "Dialogo di un venditore di almanacchi e di un passeggere"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465801153967242"
+                    }
+                ],
+                "query_text": "giacca stregata"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465801068086611"
+                    }
+                ],
+                "query_text": "stefano benni"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465801046280131"
+                    }
+                ],
+                "query_text": "buzzati dino opere"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465801041436293"
+                    }
+                ],
+                "query_text": "buzzati dino"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465800985059816"
+                    }
+                ],
+                "query_text": "boccaccio"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465800911952932"
+                    }
+                ],
+                "query_text": "racconti famosi"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465800184814045"
+                    }
+                ],
+                "query_text": "dino buzzati racconti"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465800049510594"
+                    }
+                ],
+                "query_text": "dino buzzati racconti pdf"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465799691420671"
+                    }
+                ],
+                "query_text": "racconti stefano benni"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465799231866628"
+                    }
+                ],
+                "query_text": "racconti famosi"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465799227569633"
+                    }
+                ],
+                "query_text": "racconti famosi edgar allan poe"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465798879474046"
+                    }
+                ],
+                "query_text": "poesia italiana"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465374324676842"
+                    }
+                ],
+                "query_text": "svizzera apprendisti diritti"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465374188722065"
+                    }
+                ],
+                "query_text": "lehrling arbeitszeiten"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465372141871808"
+                    },
+                    {
+                        "timestamp_usec": "1465372162272551"
+                    }
+                ],
+                "query_text": "translate"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1465307796046040"
+                    }
+                ],
+                "query_text": "isosceles"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1460052146173307"
+                    }
+                ],
+                "query_text": "opere più importanti italo calvino"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1460050062869078"
+                    }
+                ],
+                "query_text": "analisi il sentiero dei nidi di ragno"
+            }
+        }
+    ]
+}

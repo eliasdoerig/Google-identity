@@ -1,0 +1,137 @@
+{
+    "event": [
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1475162465971234"
+                    }
+                ],
+                "query_text": "midada muralto"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1475162455738643"
+                    }
+                ],
+                "query_text": "midada lugano"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1475162447758245"
+                    }
+                ],
+                "query_text": "midada"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1475161245669866"
+                    },
+                    {
+                        "timestamp_usec": "1475161255465623"
+                    }
+                ],
+                "query_text": "casa andrea cristoforo ascona"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1475160437691126"
+                    }
+                ],
+                "query_text": "zivi"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1475157155070893"
+                    }
+                ],
+                "query_text": "interdiscount"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1475156195662685"
+                    }
+                ],
+                "query_text": "elide franscioni agie"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1475154889491068"
+                    }
+                ],
+                "query_text": "e-zivi"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1467898926990302"
+                    }
+                ],
+                "query_text": "gm"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1467811715797588"
+                    }
+                ],
+                "query_text": "irf540"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1467807504316510"
+                    }
+                ],
+                "query_text": "morsetto in inglese"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1467797397826937"
+                    }
+                ],
+                "query_text": "mm to inch"
+            }
+        },
+        {
+            "query": {
+                "id": [
+                    {
+                        "timestamp_usec": "1467797013224335"
+                    }
+                ],
+                "query_text": "mm to th"
+            }
+        }
+    ]
+}

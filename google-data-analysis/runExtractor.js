@@ -15,7 +15,7 @@ let result = {
     "work": "YourWork",
     "years": resultPerYear 
 };
-writeToFile("../website/json/data.json", prettyStringify(result));
+writeToFile("../html/json/data.json", prettyStringify(result));
 
 function prettyStringify(obj) {
     return JSON.stringify(obj, undefined, 2);
